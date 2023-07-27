@@ -1,3 +1,4 @@
 //console log
-console.log("hello-git");
-console.log("hello-github");
+console.log("hello-Git");
+console.log("hello-Github!")
+
